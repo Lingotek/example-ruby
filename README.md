@@ -4,7 +4,7 @@ This code example demonstrates how to send content up to Lingotek and download t
 
 ----------------------
 ruby
-- version 2.1
+- version 1.9.3+
 
 rest-client gem
 - version 1.7.2
